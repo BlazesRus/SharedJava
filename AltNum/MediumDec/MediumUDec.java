@@ -75,5 +75,59 @@ package BlazesRusCode.AltNum;
 
 	//endregion class_constructors
 
+    //region Check_if_value
 
+    //endregion Check_if_value
+
+    //region RangeLimits
+
+    //endregion RangeLimits
+
+    //region ValueSetters
+
+    //endregion ValueSetters
+
+    //region ValueDefines
+
+    //endregion ValueDefines
+
+    //region String Commands
+
+    //endregion String Commands
+
+    //region ConvertFromOtherTypes
+
+    //endregion ConvertFromOtherTypes
+
+    //region ConvertToOtherTypes
+
+    //endregion ConvertToOtherTypes
+
+    //region Comparison Operators
+
+    //endregion Comparison Operators
+
+    //region NormalRep Integer Division Operations
+
+    //endregion NormalRep Integer Division Operations
+
+    //region NormalRep AltNum Division Operations
+
+    //endregion NormalRep AltNum Division Operations
+
+    //region Other Division Operations
+
+    //endregion Other Division Operations
+
+    //region NormalRep Integer Multiplication Operations
+
+    //endregion NormalRep Integer Multiplication Operations
+
+    //region NormalRep AltNum Multiplication Operations
+
+    //endregion NormalRep AltNum Multiplication Operations
+
+    //region Other Multiplication Operations
+
+    //endregion Other Multiplication Operations
 	}
